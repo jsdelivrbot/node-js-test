@@ -1,0 +1,22 @@
+{
+  "name": "clear",
+  "version": "1.0.0",
+  "description": "A barebones Node.js app using [Express 4](http://expressjs.com/).",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "generate-schema": "^2.5.1",
+    "core-js": "^2.5.0",
+    "es5-shim": "^4.5.9",
+    "ajv": "^5.2.2",
+    "jsonschema": "^1.2.0",
+    "json-to-array": "^0.1.0",
+    "json-validation": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "author": "",
+  "license": "ISC"
+}
